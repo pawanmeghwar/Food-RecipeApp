@@ -13,6 +13,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aa8533be-e50a-44c5-bdfd-b752a0482a79" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/modules/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/app.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -200,22 +201,22 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state width="661" height="192" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1599569926325" />
-    <state x="301" y="52" key="SettingsEditor" timestamp="1599586781842">
+    <state x="301" y="52" key="SettingsEditor" timestamp="1599632692120">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="301" y="52" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1599586781842" />
+    <state x="301" y="52" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1599632692120" />
     <state x="513" y="253" key="VCS.EditChangelistDialog" timestamp="1599557720714">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="513" y="253" key="VCS.EditChangelistDialog/0.0.1366.768@0.0.1366.768" timestamp="1599557720714" />
-    <state x="275" y="117" key="Vcs.Push.Dialog.v2" timestamp="1599588258986">
+    <state x="275" y="117" key="Vcs.Push.Dialog.v2" timestamp="1599631534042">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="275" y="117" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1599588258986" />
-    <state x="379" y="208" key="com.intellij.ide.util.TipDialog" timestamp="1599585274950">
+    <state x="275" y="117" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1599631534042" />
+    <state x="379" y="208" key="com.intellij.ide.util.TipDialog" timestamp="1599631500219">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="379" y="208" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1599585274950" />
+    <state x="379" y="208" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1599631500219" />
     <state x="758" y="228" key="git4idea.merge.GitPullDialog" timestamp="1599586930235">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
